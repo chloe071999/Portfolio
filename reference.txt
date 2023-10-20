@@ -1,0 +1,21 @@
+references
+
+AOS. (n.d.). Animate on Scroll Library. Retrieved October 27, 2022, from http://michalsnik.github.io/aos/
+
+BG Color Change on mousemove. (n.d.). CodePen. Retrieved October 27, 2022, from https://codepen.io/artjunkie/details/zKwPRK
+
+Coding in Public, C. in. (2021). Reading progress bar javascript/css tutorial [Video]. In YouTube. https://www.youtube.com/watch?v=ZF1hXoq8Lk0
+
+js.foundation, J. F.-. (n.d.). Download jQuery. JQuery. Retrieved October 27, 2022, from https://jquery.com/download/
+
+Powell, K. (2019). How to change your navigation style on scroll [Video]. In YouTube. https://www.youtube.com/watch?v=RxnV9Xcw914
+
+rsms. (n.d.). Rsms.Me. Retrieved October 27, 2022, from https://rsms.me/
+
+(N.d.-a). Retrieved October 27, 2022, from https://rsms.me/inter/inter.css
+
+(N.d.-b). Retrieved October 27, 2022, from https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css
+
+Yi, W. (n.d.). Journal-Wenhui yi. Google Docs. Retrieved November 8, 2022, from https://docs.google.com/document/d/1jJ1_3On5qjBLGBei3Hh7SAccRfgAnaFxfmIunQhLMiQ/edit#heading=h.xvifbi5mo5i8
+
+Barthelot, E. (n.d.).
